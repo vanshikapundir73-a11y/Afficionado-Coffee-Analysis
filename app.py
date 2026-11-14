@@ -12,8 +12,7 @@ st.set_page_config(
 
 # Load dataset
 file_path = (
-    Path(__file__).resolve().parent.parent
-    / "report"
+    Path(__file__).resolve().parent
     / "afficionado_cleaned_dataset.csv"
 )
 
