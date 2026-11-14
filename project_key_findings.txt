@@ -1,0 +1,20 @@
+
+AFFICIONADO COFFEE ROASTERS
+SALES TREND AND TIME-BASED PERFORMANCE ANALYSIS
+
+KEY FINDINGS
+
+1. Total Revenue: $698,812.33
+2. Total Transactions: 149,116
+3. Total Products Sold: 214,470
+4. Average Transaction Value: $4.69
+
+5. Peak Sales Hour: 10:00
+6. Peak Hour Revenue: $88,673.39
+
+7. Morning Revenue Contribution: 55.56%
+8. Afternoon Revenue Contribution: 29.30%
+9. Evening Revenue Contribution: 15.14%
+
+10. Top Store: Hell's Kitchen
+11. Top Product Category: Coffee
